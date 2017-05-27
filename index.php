@@ -8,6 +8,6 @@ echo diameter_lingkaran();
 
 
 function keliling_persegi($sisi){
-    $kel = 2($sisi+$sisi);
+    $kel = 2*($sisi+$sisi);
     return $kel;
 }
